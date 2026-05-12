@@ -53,17 +53,6 @@ program
   })
 
 program
-  .command("add <program>")
-  .description(
-    "Adds <program> to database. " +
-      "Prompts you to enter the name, description, " +
-      "the programs it is an alternative to, …",
-  )
-  .action((_program: string) => {
-    // TODO: implement
-  })
-
-program
   .command("alternative <prog> <alt>")
   .description(
     "Saves <alt> as an alternative to <prog>. " +
@@ -94,7 +83,6 @@ program.addHelpText(
   `
 Examples:
   alterm chrome           Shows all alternatives to Chrome.
-  alterm add photoshop    Adds photoshop as a new program.
 `,
 )
 
