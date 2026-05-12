@@ -2,8 +2,32 @@
   "name": "alterm",
   "version": "0.1.0",
   "description": "Find alternatives to programs, apps, websites and other software right in your terminal!",
-  "main": "./src/index.js",
-  "bin": "./bin/cli.js",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "alterm": "./dist/cli.js"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "tools"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "serve": "node dist/server.js",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/adius/alterm.git"
@@ -18,7 +42,12 @@
   },
   "homepage": "https://github.com/adius/alterm",
   "dependencies": {
-    "commander": "^2.5.0",
-    "express": "^4.10.2"
+    "commander": "^12.1.0",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.9.0",
+    "typescript": "^5.6.3"
   }
 }
