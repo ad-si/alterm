@@ -1,0 +1,14 @@
+description: Bazaar, a distributed version control system written in Python
+tags:
+  - vcs
+  - version-control
+  - distributed
+
+links:
+  - https://bazaar.canonical.com
+
+alternatives:
+  - git
+  - hg
+  - darcs
+  - svn

@@ -1,0 +1,11 @@
+description: The classic full-screen modal text editor
+tags:
+  - editor
+  - tui
+
+alternatives:
+  - vim
+  - neovim
+  - nano
+  - emacs
+  - ed

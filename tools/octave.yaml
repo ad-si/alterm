@@ -1,0 +1,13 @@
+description: High-level language for numerical computing, largely compatible with MATLAB
+tags:
+  - math
+  - scientific
+  - language
+
+links:
+  - https://www.gnu.org/software/octave/
+
+alternatives:
+  - scilab
+  - r
+  - python

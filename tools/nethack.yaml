@@ -1,0 +1,12 @@
+description: Classic single-player roguelike dungeon-crawling game
+tags:
+  - games
+  - roguelike
+  - tui
+
+links:
+  - https://www.nethack.org
+
+alternatives:
+  - frotz
+  - bsdgames

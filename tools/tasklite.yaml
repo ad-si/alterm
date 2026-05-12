@@ -1,0 +1,14 @@
+description: CLI task manager based on SQLite with strong query capabilities
+tags:
+  - todo
+  - task
+  - cli
+  - sqlite
+
+links:
+  - https://tasklite.org
+
+alternatives:
+  - taskwarrior
+  - devtodo
+  - todo.txt

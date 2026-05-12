@@ -1,0 +1,11 @@
+description: Display real-time view of running processes and system resources
+tags:
+  - system
+  - process
+  - monitor
+
+alternatives:
+  - htop
+  - btop
+  - atop
+  - glances

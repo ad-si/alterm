@@ -1,0 +1,10 @@
+description: Concurrent Versions System, a classic centralized version control system
+tags:
+  - vcs
+  - version-control
+  - centralized
+
+alternatives:
+  - svn
+  - git
+  - rcs

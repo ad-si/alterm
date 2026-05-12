@@ -1,0 +1,10 @@
+description: Collection of classic text-mode games from BSD
+tags:
+  - games
+
+links:
+  - https://wiki.linuxquestions.org/wiki/BSD_games
+
+alternatives:
+  - nethack
+  - frotz

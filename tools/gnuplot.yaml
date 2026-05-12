@@ -1,0 +1,13 @@
+description: Portable command-line driven graphing utility
+tags:
+  - graphing
+  - plotting
+  - visualization
+
+links:
+  - http://www.gnuplot.info
+
+alternatives:
+  - graphviz
+  - matplotlib
+  - jplot

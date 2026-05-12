@@ -1,0 +1,10 @@
+description: Display a simple calendar in the terminal
+tags:
+  - calendar
+  - cli
+
+alternatives:
+  - ncal
+  - pcal
+  - calendar
+  - khal

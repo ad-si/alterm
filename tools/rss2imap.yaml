@@ -1,0 +1,13 @@
+description: Delivers RSS/Atom feeds directly to an IMAP folder
+tags:
+  - rss
+  - email
+  - imap
+  - feed
+
+links:
+  - https://github.com/rcarmo/rss2imap
+
+alternatives:
+  - rss2email
+  - newsboat

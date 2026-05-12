@@ -1,0 +1,14 @@
+description: Text-mode RSS/Atom feed reader, fork of newsbeuter
+tags:
+  - rss
+  - tui
+  - feed
+
+links:
+  - https://newsboat.org
+
+alternatives:
+  - newsbeuter
+  - snownews
+  - canto
+  - rss2email

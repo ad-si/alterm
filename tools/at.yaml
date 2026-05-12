@@ -1,0 +1,9 @@
+description: Schedule a single job for execution at a specified time
+tags:
+  - scheduling
+  - automation
+
+alternatives:
+  - cron
+  - systemd-run
+  - batch

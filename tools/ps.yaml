@@ -1,0 +1,9 @@
+description: Report a snapshot of the current processes
+tags:
+  - system
+  - process
+
+alternatives:
+  - top
+  - htop
+  - procs

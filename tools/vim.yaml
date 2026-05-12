@@ -1,0 +1,14 @@
+description: Highly configurable, modal text editor built on the vi paradigm
+tags:
+  - editor
+  - tui
+
+links:
+  - https://www.vim.org
+
+alternatives:
+  - neovim
+  - vi
+  - emacs
+  - nano
+  - helix

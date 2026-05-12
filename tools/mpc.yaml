@@ -1,0 +1,13 @@
+description: Command-line client for the Music Player Daemon (mpd)
+tags:
+  - music
+  - audio
+  - player
+  - cli
+
+links:
+  - https://www.musicpd.org/clients/mpc/
+
+alternatives:
+  - mpd
+  - cmus

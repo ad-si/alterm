@@ -1,0 +1,9 @@
+description: Send ICMP ECHO_REQUEST packets to network hosts to test reachability
+tags:
+  - network
+  - diagnostic
+
+alternatives:
+  - fping
+  - gping
+  - mtr

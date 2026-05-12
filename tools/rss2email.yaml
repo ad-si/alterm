@@ -1,0 +1,13 @@
+description: Delivers RSS/Atom feeds to your email inbox
+tags:
+  - rss
+  - email
+  - feed
+
+links:
+  - https://github.com/rss2email/rss2email
+
+alternatives:
+  - rss2imap
+  - newsboat
+  - canto

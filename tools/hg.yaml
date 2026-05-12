@@ -1,0 +1,14 @@
+description: Mercurial, a fast and powerful distributed version control system
+tags:
+  - vcs
+  - version-control
+  - distributed
+
+links:
+  - https://www.mercurial-scm.org
+
+alternatives:
+  - git
+  - bzr
+  - darcs
+  - svn

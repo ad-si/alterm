@@ -1,0 +1,13 @@
+description: Cryptography toolkit implementing SSL/TLS protocols and general-purpose crypto utilities
+tags:
+  - crypto
+  - tls
+  - ssl
+  - security
+
+links:
+  - https://www.openssl.org
+
+alternatives:
+  - gnutls
+  - libressl

@@ -1,0 +1,13 @@
+description: Command-line hierarchical todo list manager
+tags:
+  - todo
+  - task
+  - cli
+
+links:
+  - https://swapoff.org/DevTodo
+
+alternatives:
+  - taskwarrior
+  - tasklite
+  - todo.txt

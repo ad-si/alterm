@@ -1,0 +1,14 @@
+description: Fast console MP3 player and decoder library
+tags:
+  - music
+  - audio
+  - player
+  - mp3
+
+links:
+  - https://www.mpg123.de
+
+alternatives:
+  - mpg321
+  - ogg123
+  - cmus

@@ -1,0 +1,13 @@
+description: Library and tools for converting Microsoft Word documents to other formats
+tags:
+  - doc
+  - converter
+  - text
+
+links:
+  - https://wvware.sourceforge.net
+
+alternatives:
+  - antiword
+  - catdoc
+  - pandoc

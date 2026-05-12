@@ -1,0 +1,10 @@
+description: Show listing of last logged-in users
+tags:
+  - system
+  - user
+  - info
+
+alternatives:
+  - who
+  - w
+  - lastlog

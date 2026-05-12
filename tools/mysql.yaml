@@ -1,0 +1,13 @@
+description: Command-line client for the MySQL database
+tags:
+  - database
+  - sql
+  - mysql
+
+links:
+  - https://dev.mysql.com/doc/refman/en/mysql.html
+
+alternatives:
+  - psql
+  - sqlite3
+  - mycli

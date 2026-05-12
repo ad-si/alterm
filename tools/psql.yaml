@@ -1,0 +1,13 @@
+description: Interactive terminal client for PostgreSQL
+tags:
+  - database
+  - sql
+  - postgresql
+
+links:
+  - https://www.postgresql.org/docs/current/app-psql.html
+
+alternatives:
+  - mysql
+  - sqlite3
+  - pgcli

@@ -1,0 +1,15 @@
+description: Lightweight multi-protocol download utility supporting HTTP, FTP, BitTorrent, and Metalink
+tags:
+  - download
+  - torrent
+  - http
+  - ftp
+
+links:
+  - https://aria2.github.io
+
+alternatives:
+  - rtorrent
+  - wget
+  - curl
+  - transmission-cli

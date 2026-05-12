@@ -1,0 +1,13 @@
+description: OpenSSH remote login client for secure shell access
+tags:
+  - network
+  - shell
+  - remote
+  - security
+
+links:
+  - https://www.openssh.com
+
+alternatives:
+  - mosh
+  - telnet

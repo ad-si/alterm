@@ -1,0 +1,13 @@
+description: Console-based multi-protocol instant messaging client (Pidgin's TUI)
+tags:
+  - chat
+  - tui
+  - im
+
+links:
+  - https://www.pidgin.im/finch/
+
+alternatives:
+  - irssi
+  - weechat
+  - centericq

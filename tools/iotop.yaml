@@ -1,0 +1,11 @@
+description: Top-like utility for monitoring I/O usage by processes
+tags:
+  - system
+  - process
+  - monitor
+  - io
+
+alternatives:
+  - top
+  - htop
+  - iostat

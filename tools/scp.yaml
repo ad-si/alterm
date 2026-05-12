@@ -1,0 +1,10 @@
+description: Secure copy of files between hosts over SSH
+tags:
+  - network
+  - file-transfer
+  - ssh
+
+alternatives:
+  - sftp
+  - rsync
+  - rclone

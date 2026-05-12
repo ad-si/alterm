@@ -1,0 +1,14 @@
+description: Language and environment for statistical computing and graphics
+tags:
+  - statistics
+  - math
+  - scientific
+  - language
+
+links:
+  - https://www.r-project.org
+
+alternatives:
+  - octave
+  - python
+  - scilab

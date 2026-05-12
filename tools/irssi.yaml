@@ -1,0 +1,13 @@
+description: Modular text-mode IRC client
+tags:
+  - chat
+  - irc
+  - tui
+
+links:
+  - https://irssi.org
+
+alternatives:
+  - weechat
+  - finch
+  - bitlbee

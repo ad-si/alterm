@@ -1,0 +1,11 @@
+description: Simple full-screen text editor that originated with the Pine email client
+tags:
+  - editor
+  - tui
+
+links:
+  - https://en.wikipedia.org/wiki/Pico_(text_editor)
+
+alternatives:
+  - nano
+  - micro

@@ -1,0 +1,10 @@
+description: DNS lookup utility for querying DNS name servers
+tags:
+  - network
+  - dns
+
+alternatives:
+  - nslookup
+  - host
+  - drill
+  - dog

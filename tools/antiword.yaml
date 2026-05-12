@@ -1,0 +1,13 @@
+description: Converts Microsoft Word .doc files to plain text or PostScript
+tags:
+  - doc
+  - converter
+  - text
+
+links:
+  - http://www.winfield.demon.nl/
+
+alternatives:
+  - wv
+  - catdoc
+  - pandoc

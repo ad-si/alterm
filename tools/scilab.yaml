@@ -1,0 +1,13 @@
+description: Open-source numerical computing environment
+tags:
+  - math
+  - scientific
+  - language
+
+links:
+  - https://www.scilab.org
+
+alternatives:
+  - octave
+  - r
+  - python

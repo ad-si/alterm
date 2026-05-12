@@ -1,0 +1,13 @@
+description: Graph visualization software using the DOT language
+tags:
+  - graphing
+  - visualization
+  - diagram
+
+links:
+  - https://graphviz.org
+
+alternatives:
+  - gnuplot
+  - mermaid
+  - plantuml

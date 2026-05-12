@@ -1,0 +1,13 @@
+description: Subversion, a centralized version control system
+tags:
+  - vcs
+  - version-control
+  - centralized
+
+links:
+  - https://subversion.apache.org
+
+alternatives:
+  - git
+  - hg
+  - cvs

@@ -1,0 +1,12 @@
+description: BSD utility that displays a reminder of upcoming events
+tags:
+  - calendar
+  - reminder
+
+links:
+  - https://www.freebsd.org/cgi/man.cgi?query=calendar&sektion=1
+
+alternatives:
+  - remind
+  - cal
+  - khal

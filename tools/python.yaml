@@ -1,0 +1,15 @@
+description: General-purpose programming language usable as an interactive calculator and shell
+tags:
+  - language
+  - repl
+  - calculator
+
+links:
+  - https://www.python.org
+
+alternatives:
+  - bc
+  - node
+  - irb
+  - octave
+  - r

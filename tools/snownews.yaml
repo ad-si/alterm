@@ -1,0 +1,14 @@
+description: Text-mode RSS feed reader
+tags:
+  - rss
+  - tui
+  - feed
+
+links:
+  - https://kiza.eu/software/snownews/
+
+alternatives:
+  - newsboat
+  - newsbeuter
+  - canto
+  - rss2email

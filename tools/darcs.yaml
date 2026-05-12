@@ -1,0 +1,14 @@
+description: Distributed version control system with a unique patch-based model
+tags:
+  - vcs
+  - version-control
+  - distributed
+
+links:
+  - https://darcs.net
+
+alternatives:
+  - git
+  - hg
+  - bzr
+  - pijul

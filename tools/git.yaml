@@ -1,0 +1,15 @@
+description: Fast, distributed version control system
+tags:
+  - vcs
+  - version-control
+  - distributed
+
+links:
+  - https://git-scm.com
+
+alternatives:
+  - hg
+  - bzr
+  - darcs
+  - svn
+  - fossil

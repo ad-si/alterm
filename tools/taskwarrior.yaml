@@ -1,0 +1,13 @@
+description: Feature-rich command-line task manager
+tags:
+  - todo
+  - task
+  - cli
+
+links:
+  - https://taskwarrior.org
+
+alternatives:
+  - devtodo
+  - tasklite
+  - todo.txt

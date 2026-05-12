@@ -1,0 +1,13 @@
+description: Multitrack audio processor for recording, editing, and playback
+tags:
+  - audio
+  - recording
+  - processing
+
+links:
+  - https://ecasound.seul.org
+
+alternatives:
+  - sox
+  - ffmpeg
+  - audacity

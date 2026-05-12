@@ -1,0 +1,14 @@
+description: Full-screen text-mode email client supporting local mailboxes, POP3, and IMAP
+tags:
+  - email
+  - tui
+
+links:
+  - https://www.mutt.org
+
+alternatives:
+  - mail
+  - alpine
+  - elm
+  - nmh
+  - neomutt

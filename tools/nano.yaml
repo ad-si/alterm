@@ -1,0 +1,13 @@
+description: Simple, easy-to-use full-screen text editor
+tags:
+  - editor
+  - tui
+
+links:
+  - https://www.nano-editor.org
+
+alternatives:
+  - pico
+  - micro
+  - vim
+  - emacs

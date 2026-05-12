@@ -1,0 +1,13 @@
+description: CalDAV-based command-line calendar
+tags:
+  - calendar
+  - caldav
+  - tui
+
+links:
+  - https://github.com/pimutils/khal
+
+alternatives:
+  - gcalcli
+  - calendar
+  - remind

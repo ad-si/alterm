@@ -1,0 +1,14 @@
+description: Music Player Daemon, a server-side application for playing music
+tags:
+  - music
+  - audio
+  - daemon
+  - server
+
+links:
+  - https://www.musicpd.org
+
+alternatives:
+  - mpc
+  - cmus
+  - mpg123

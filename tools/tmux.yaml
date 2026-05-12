@@ -1,0 +1,13 @@
+description: Terminal multiplexer for managing multiple terminal sessions in one window
+tags:
+  - terminal
+  - multiplexer
+  - session
+
+links:
+  - https://github.com/tmux/tmux
+
+alternatives:
+  - screen
+  - zellij
+  - byobu

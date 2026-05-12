@@ -1,0 +1,12 @@
+description: Interpreter for Infocom and other Z-machine text adventures
+tags:
+  - games
+  - interpreter
+  - text-adventure
+
+links:
+  - https://davidgriffith.gitlab.io/frotz/
+
+alternatives:
+  - nethack
+  - bsdgames

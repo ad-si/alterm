@@ -1,0 +1,12 @@
+description: Synchronizes IMAP mail accounts to local Maildir folders
+tags:
+  - email
+  - sync
+  - imap
+
+links:
+  - https://www.offlineimap.org
+
+alternatives:
+  - mbsync
+  - fetchmail

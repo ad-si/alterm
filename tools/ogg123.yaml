@@ -1,0 +1,11 @@
+description: Command-line Ogg Vorbis audio player
+tags:
+  - music
+  - audio
+  - player
+  - ogg
+
+alternatives:
+  - mpg123
+  - mpg321
+  - cmus

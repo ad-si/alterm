@@ -1,0 +1,12 @@
+description: New Mail Handler, a command-line mail system using the MH format
+tags:
+  - email
+  - cli
+
+links:
+  - https://savannah.nongnu.org/projects/nmh/
+
+alternatives:
+  - mail
+  - mutt
+  - alpine

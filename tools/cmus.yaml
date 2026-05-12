@@ -1,0 +1,15 @@
+description: Small, fast and powerful console music player
+tags:
+  - music
+  - audio
+  - player
+  - tui
+
+links:
+  - https://cmus.github.io
+
+alternatives:
+  - mpd
+  - mpg123
+  - mpg321
+  - pianobar

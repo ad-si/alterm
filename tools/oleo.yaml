@@ -1,0 +1,14 @@
+description: Full-screen spreadsheet with an Emacs-like feel
+tags:
+  - tui
+  - spreadsheet
+  - emacs
+
+links:
+  - https://www.gnu.org/software/oleo/
+
+alternatives:
+  - sc
+  - sc-im
+  - slsc
+  - visidata

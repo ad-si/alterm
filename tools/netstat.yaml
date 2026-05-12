@@ -1,0 +1,9 @@
+description: Print network connections, routing tables, and interface statistics
+tags:
+  - network
+  - diagnostic
+  - system
+
+alternatives:
+  - ss
+  - lsof

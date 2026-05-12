@@ -1,0 +1,13 @@
+description: Generates PostScript calendars suitable for printing
+tags:
+  - calendar
+  - postscript
+  - print
+
+links:
+  - https://pcal.sourceforge.net
+
+alternatives:
+  - cal
+  - calendar
+  - remind

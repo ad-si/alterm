@@ -1,0 +1,13 @@
+description: Command-line email client using local mailboxes
+tags:
+  - email
+  - cli
+
+links:
+  - https://en.wikipedia.org/wiki/Mailx
+
+alternatives:
+  - mutt
+  - elm
+  - nmh
+  - alpine

@@ -1,0 +1,8 @@
+description: Print the route packets trace to a network host
+tags:
+  - network
+  - diagnostic
+
+alternatives:
+  - mtr
+  - tracepath

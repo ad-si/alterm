@@ -1,0 +1,13 @@
+description: Command-line client for Pandora streaming radio
+tags:
+  - music
+  - audio
+  - streaming
+  - radio
+
+links:
+  - https://6xq.net/pianobar/
+
+alternatives:
+  - cmus
+  - mpd

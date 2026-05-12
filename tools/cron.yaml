@@ -1,0 +1,10 @@
+description: Time-based job scheduler for repeated tasks
+tags:
+  - scheduling
+  - automation
+  - daemon
+
+alternatives:
+  - at
+  - systemd-timer
+  - anacron

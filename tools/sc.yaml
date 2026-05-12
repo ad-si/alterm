@@ -1,0 +1,11 @@
+description: Simple full-screen spreadsheet with vi-like keybindings
+tags:
+  - tui
+  - spreadsheet
+  - vim
+
+alternatives:
+  - sc-im
+  - slsc
+  - oleo
+  - visidata

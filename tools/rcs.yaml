@@ -1,0 +1,12 @@
+description: Revision Control System for managing single-file revisions
+tags:
+  - vcs
+  - version-control
+
+links:
+  - https://www.gnu.org/software/rcs/
+
+alternatives:
+  - cvs
+  - svn
+  - git

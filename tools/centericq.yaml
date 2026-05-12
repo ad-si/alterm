@@ -1,0 +1,11 @@
+description: Multi-protocol text-mode instant messaging client (ICQ, AIM, IRC, MSN, Yahoo, Jabber)
+tags:
+  - chat
+  - tui
+  - im
+
+alternatives:
+  - finch
+  - irssi
+  - weechat
+  - centerim

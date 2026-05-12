@@ -1,0 +1,13 @@
+description: S-Lang based spreadsheet derived from sc
+tags:
+  - tui
+  - spreadsheet
+
+links:
+  - http://linux.maruhn.com/sec/slsc.html
+
+alternatives:
+  - sc
+  - sc-im
+  - oleo
+  - visidata

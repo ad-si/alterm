@@ -1,0 +1,9 @@
+description: Console-based audio mixer for adjusting sound levels
+tags:
+  - audio
+  - mixer
+  - tui
+
+alternatives:
+  - alsamixer
+  - pulsemixer

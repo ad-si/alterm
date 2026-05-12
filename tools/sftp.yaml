@@ -1,0 +1,10 @@
+description: Secure file transfer program over SSH
+tags:
+  - network
+  - file-transfer
+  - ssh
+
+alternatives:
+  - scp
+  - rsync
+  - lftp

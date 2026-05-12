@@ -1,0 +1,14 @@
+description: Console Atom/RSS feed reader written in Python
+tags:
+  - rss
+  - tui
+  - feed
+
+links:
+  - https://codezen.org/canto-ng/
+
+alternatives:
+  - newsboat
+  - snownews
+  - newsbeuter
+  - rss2email

@@ -1,0 +1,13 @@
+description: GNU Screen, a full-screen window manager that multiplexes a physical terminal
+tags:
+  - terminal
+  - multiplexer
+  - session
+
+links:
+  - https://www.gnu.org/software/screen/
+
+alternatives:
+  - tmux
+  - zellij
+  - byobu

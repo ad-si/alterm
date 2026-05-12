@@ -1,0 +1,11 @@
+description: Console contact and address book manager
+tags:
+  - addressbook
+  - contacts
+
+links:
+  - https://rolo.sourceforge.net
+
+alternatives:
+  - abook
+  - khard

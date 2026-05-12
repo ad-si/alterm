@@ -1,0 +1,13 @@
+description: Command-line interface for Google Calendar
+tags:
+  - calendar
+  - google
+  - cli
+
+links:
+  - https://github.com/insanum/gcalcli
+
+alternatives:
+  - khal
+  - calendar
+  - remind

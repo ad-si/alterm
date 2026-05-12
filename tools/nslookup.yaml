@@ -1,0 +1,9 @@
+description: Query Internet name servers interactively
+tags:
+  - network
+  - dns
+
+alternatives:
+  - dig
+  - host
+  - drill

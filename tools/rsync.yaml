@@ -1,0 +1,13 @@
+description: Fast, incremental file transfer and synchronization tool
+tags:
+  - file-transfer
+  - sync
+  - backup
+
+links:
+  - https://rsync.samba.org
+
+alternatives:
+  - rclone
+  - scp
+  - sftp

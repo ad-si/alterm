@@ -1,0 +1,12 @@
+description: Swiss Army knife of sound processing, the universal audio converter
+tags:
+  - audio
+  - converter
+  - processing
+
+links:
+  - http://sox.sourceforge.net
+
+alternatives:
+  - ffmpeg
+  - ecasound

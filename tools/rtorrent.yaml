@@ -1,0 +1,12 @@
+description: Text-mode BitTorrent client based on libTorrent
+tags:
+  - torrent
+  - download
+  - tui
+
+links:
+  - https://rakshasa.github.io/rtorrent/
+
+alternatives:
+  - aria2c
+  - transmission-cli

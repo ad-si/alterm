@@ -1,0 +1,12 @@
+description: Text-based address book program designed for use with Mutt
+tags:
+  - addressbook
+  - contacts
+  - tui
+
+links:
+  - https://abook.sourceforge.io
+
+alternatives:
+  - khard
+  - rolo

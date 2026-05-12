@@ -1,0 +1,14 @@
+description: Command-line editor and web browser
+tags:
+  - browser
+  - editor
+
+links:
+  - https://edbrowse.org
+
+alternatives:
+  - lynx
+  - w3m
+  - links
+  - elinks
+  - ed

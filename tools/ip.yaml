@@ -1,0 +1,9 @@
+description: Show and manipulate routing, devices, policy routing, and tunnels
+tags:
+  - network
+  - system
+
+alternatives:
+  - ifconfig
+  - netstat
+  - ss

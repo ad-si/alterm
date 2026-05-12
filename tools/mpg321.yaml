@@ -1,0 +1,14 @@
+description: Free clone of mpg123 for playing MP3 files
+tags:
+  - music
+  - audio
+  - player
+  - mp3
+
+links:
+  - https://mpg321.sourceforge.net
+
+alternatives:
+  - mpg123
+  - cmus
+  - ogg123

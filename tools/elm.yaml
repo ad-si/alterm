@@ -1,0 +1,13 @@
+description: Full-screen text-mode email client for local mailboxes
+tags:
+  - email
+  - tui
+
+links:
+  - https://instinct.org/elm/
+
+alternatives:
+  - mutt
+  - alpine
+  - mail
+  - nmh

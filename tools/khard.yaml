@@ -1,0 +1,12 @@
+description: Console CardDAV client for managing contacts
+tags:
+  - addressbook
+  - contacts
+  - carddav
+
+links:
+  - https://github.com/scheibler/khard
+
+alternatives:
+  - abook
+  - rolo

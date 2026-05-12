@@ -1,0 +1,13 @@
+description: Extensible, customizable, self-documenting text editor
+tags:
+  - editor
+  - tui
+
+links:
+  - https://www.gnu.org/software/emacs/
+
+alternatives:
+  - vim
+  - vi
+  - nano
+  - helix

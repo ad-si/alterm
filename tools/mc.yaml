@@ -1,0 +1,14 @@
+description: Midnight Commander, a free cross-platform orthodox file manager
+tags:
+  - filesystem
+  - filemanager
+  - tui
+
+links:
+  - https://midnight-commander.org
+
+alternatives:
+  - ranger
+  - nnn
+  - vifm
+  - lf

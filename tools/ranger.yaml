@@ -1,0 +1,15 @@
+description: Console file manager with vi-like keybindings
+tags:
+  - filesystem
+  - filemanager
+  - tui
+  - vim
+
+links:
+  - https://ranger.github.io
+
+alternatives:
+  - mc
+  - nnn
+  - vifm
+  - lf
