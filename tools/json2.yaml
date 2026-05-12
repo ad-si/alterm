@@ -1,0 +1,13 @@
+description: Convert JSON to and from flat, greppable lists of path=value statements
+tags:
+  - json
+  - convert
+  - grep
+
+links:
+  - https://github.com/vi/json2
+
+alternatives:
+  - gron
+  - xml2
+  - jq

@@ -1,0 +1,10 @@
+description: Validate or pretty-print YAML
+tags:
+  - yaml
+  - validate
+
+links:
+  - http://github.com/martinlindhe/validyaml
+
+alternatives:
+  - yq

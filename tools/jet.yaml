@@ -1,0 +1,14 @@
+description: Convert between JSON, YAML, edn, and Transit; transform with Clojure code
+tags:
+  - convert
+  - json
+  - yaml
+  - clojure
+
+links:
+  - https://github.com/borkdude/jet
+
+alternatives:
+  - jq
+  - remarshal
+  - dasel

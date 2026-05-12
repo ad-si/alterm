@@ -1,0 +1,14 @@
+description: A pure Go implementation of jq with YAML support
+tags:
+  - json
+  - yaml
+  - query
+  - filter
+
+links:
+  - https://github.com/itchyny/gojq
+
+alternatives:
+  - jq
+  - jaq
+  - yq

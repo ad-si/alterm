@@ -1,0 +1,12 @@
+description: Process text with AWK-like patterns but Python code
+tags:
+  - text
+  - filter
+  - python
+
+links:
+  - https://github.com/alecthomas/pawk
+
+alternatives:
+  - awk
+  - pyp

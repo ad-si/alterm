@@ -1,0 +1,15 @@
+description: Explore TSV, CSV, XLS, JSON, and other formats interactively in a TUI
+tags:
+  - tui
+  - viewer
+  - csv
+  - json
+  - xlsx
+
+links:
+  - https://github.com/saulpw/visidata
+
+alternatives:
+  - tabiew
+  - sc-im
+  - tv

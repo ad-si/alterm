@@ -1,0 +1,12 @@
+description: Convert nested JSON into CSV or TSV for processing in the shell
+tags:
+  - json
+  - csv
+  - convert
+
+links:
+  - https://github.com/micha/json-table
+
+alternatives:
+  - jq
+  - jtbl

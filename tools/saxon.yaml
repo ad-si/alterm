@@ -1,0 +1,14 @@
+description: Query XML and HTML data with XPath
+tags:
+  - xml
+  - html
+  - query
+  - xpath
+
+links:
+  - http://saxon.sourceforge.net/
+
+alternatives:
+  - xmllint
+  - xidel
+  - xpe

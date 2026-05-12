@@ -1,0 +1,12 @@
+description: Select fields, character ranges, or regex matches and replace them with the output of a command
+tags:
+  - text
+  - filter
+
+links:
+  - https://github.com/greymd/teip
+
+alternatives:
+  - awk
+  - cut
+  - sed

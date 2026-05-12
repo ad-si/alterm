@@ -1,0 +1,14 @@
+description: A Rust implementation of an AWK-like language with parallelism and CSV support
+tags:
+  - text
+  - filter
+  - language
+  - csv
+
+links:
+  - https://github.com/ezrosent/frawk
+
+alternatives:
+  - awk
+  - gawk
+  - goawk

@@ -1,0 +1,15 @@
+description: A configuration language with output to JSON, YAML, plist, and Java properties
+tags:
+  - config
+  - json
+  - yaml
+  - language
+
+links:
+  - https://pkl-lang.org/
+
+alternatives:
+  - cue
+  - dhall
+  - jsonnet
+  - nickel

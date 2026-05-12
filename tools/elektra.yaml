@@ -1,0 +1,11 @@
+description: Query and modify configuration files; supports JSON, INI, and more
+tags:
+  - config
+  - edit
+  - query
+
+links:
+  - http://libelektra.org
+
+alternatives:
+  - augeas

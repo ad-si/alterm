@@ -1,0 +1,10 @@
+description: Select portions of each line in one or more files
+tags:
+  - posix
+  - text
+  - filter
+
+alternatives:
+  - awk
+  - csvkit
+  - miller

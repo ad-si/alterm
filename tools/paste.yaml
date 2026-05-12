@@ -1,0 +1,8 @@
+description: Combine several consecutive lines in a text file into one
+tags:
+  - posix
+  - text
+  - merge
+
+alternatives:
+  - awk

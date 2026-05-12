@@ -1,0 +1,14 @@
+description: Query, modify, and validate XML documents
+tags:
+  - xml
+  - query
+  - validate
+
+links:
+  - http://xmlstar.sourceforge.net/overview.php
+
+alternatives:
+  - xmllint
+  - xidel
+  - saxon
+  - xq

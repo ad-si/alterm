@@ -1,0 +1,15 @@
+description: Explore JSON, TOML, and YAML using a TUI tree widget
+tags:
+  - json
+  - toml
+  - yaml
+  - tui
+  - viewer
+
+links:
+  - https://github.com/fioncat/otree
+
+alternatives:
+  - jless
+  - jid
+  - visidata

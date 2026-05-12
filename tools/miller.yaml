@@ -1,0 +1,15 @@
+description: sed, awk, cut, join, and sort for name-indexed data such as CSV and tabular JSON
+tags:
+  - csv
+  - json
+  - tsv
+  - filter
+
+links:
+  - https://github.com/johnkerl/miller
+
+alternatives:
+  - csvkit
+  - csvtk
+  - xsv
+  - qsv

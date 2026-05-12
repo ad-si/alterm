@@ -1,0 +1,12 @@
+description: Convert CSV to a searchable and sortable HTML table
+tags:
+  - csv
+  - html
+  - convert
+
+links:
+  - https://github.com/vividvilla/csvtotable
+
+alternatives:
+  - csv2html
+  - csv2md

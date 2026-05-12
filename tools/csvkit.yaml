@@ -1,0 +1,15 @@
+description: Suite of command-line tools for converting and working with CSV
+tags:
+  - csv
+  - convert
+  - filter
+
+links:
+  - https://github.com/wireservice/csvkit
+
+alternatives:
+  - csvtk
+  - miller
+  - xsv
+  - qsv
+  - csvfix

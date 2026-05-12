@@ -1,0 +1,12 @@
+description: Format JSON or JSON Lines as a plain-text table
+tags:
+  - json
+  - format
+  - table
+
+links:
+  - https://github.com/kellyjonbrazil/jtbl
+
+alternatives:
+  - jq
+  - miller

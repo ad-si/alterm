@@ -1,0 +1,11 @@
+description: Tools and libraries to access human-editable, plain text databases called recfiles
+tags:
+  - database
+  - text
+
+links:
+  - http://www.gnu.org/software/recutils/
+
+alternatives:
+  - sqlite3
+  - fsdb

@@ -1,0 +1,14 @@
+description: Convert ODS and XLSX spreadsheets to JSON, Markdown, and YAML
+tags:
+  - convert
+  - json
+  - yaml
+  - markdown
+  - xlsx
+
+links:
+  - https://github.com/inosion/madato
+
+alternatives:
+  - csvtk
+  - rows

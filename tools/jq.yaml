@@ -1,0 +1,18 @@
+description: Create and manipulate JSON with a functional DSL
+tags:
+  - json
+  - query
+  - filter
+
+links:
+  - http://stedolan.github.io/jq/manual/
+
+alternatives:
+  - jaq
+  - gojq
+  - fx
+  - jql
+  - jshon
+  - json
+  - dasel
+  - yq

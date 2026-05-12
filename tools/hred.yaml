@@ -1,0 +1,14 @@
+description: Query XML and HTML with a query language based on CSS selectors
+tags:
+  - html
+  - xml
+  - query
+  - css
+
+links:
+  - https://github.com/danburzo/hred
+
+alternatives:
+  - pup
+  - htmlq
+  - tq

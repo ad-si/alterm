@@ -1,0 +1,14 @@
+description: Slice, combine, reformat, and flatten CSV/TSV/DSV files; query with SQL and jq
+tags:
+  - csv
+  - tsv
+  - sql
+  - filter
+
+links:
+  - https://github.com/liquidaty/zsv
+
+alternatives:
+  - xsv
+  - qsv
+  - csvkit

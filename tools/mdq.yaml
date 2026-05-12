@@ -1,0 +1,11 @@
+description: Select elements from Markdown documents using a syntax inspired by Markdown and jq
+tags:
+  - markdown
+  - query
+
+links:
+  - https://github.com/yshavit/mdq
+
+alternatives:
+  - treemd
+  - jq

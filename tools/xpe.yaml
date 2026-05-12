@@ -1,0 +1,14 @@
+description: Query HTML and XML with XPath expressions
+tags:
+  - xml
+  - html
+  - query
+  - xpath
+
+links:
+  - https://github.com/charmparticle/xpe
+
+alternatives:
+  - saxon
+  - xidel
+  - xmllint

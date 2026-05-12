@@ -1,0 +1,10 @@
+description: Track changes in JSON data from the command line; works like watch -d
+tags:
+  - json
+  - watch
+
+links:
+  - https://github.com/dbohdan/jsonwatch
+
+alternatives:
+  - jq

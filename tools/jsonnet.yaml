@@ -1,0 +1,15 @@
+description: A functional configuration language for JSON, INI, XML, YAML, and plain text
+tags:
+  - config
+  - json
+  - yaml
+  - language
+
+links:
+  - https://jsonnet.org/
+
+alternatives:
+  - cue
+  - dhall
+  - nickel
+  - pkl

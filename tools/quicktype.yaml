@@ -1,0 +1,11 @@
+description: Infer types or JSON Schema from JSON for various programming languages
+tags:
+  - json
+  - schema
+  - codegen
+
+links:
+  - https://github.com/quicktype/quicktype
+
+alternatives:
+  - skeem

@@ -1,0 +1,14 @@
+description: A cross-platform Go implementation of awk with added CSV support
+tags:
+  - text
+  - filter
+  - language
+  - csv
+
+links:
+  - https://github.com/benhoyt/goawk
+
+alternatives:
+  - awk
+  - gawk
+  - frawk

@@ -1,0 +1,12 @@
+description: Add, remove, enable, and disable entries in /etc/hosts; convert entries to JSON
+tags:
+  - hosts
+  - config
+  - network
+
+links:
+  - https://github.com/cbednarski/hostess
+
+alternatives:
+  - hostctl
+  - hosts

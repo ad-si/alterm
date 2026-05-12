@@ -1,0 +1,10 @@
+description: Validate or pretty-print JSON
+tags:
+  - json
+  - validate
+
+links:
+  - http://github.com/martinlindhe/validjson
+
+alternatives:
+  - jq

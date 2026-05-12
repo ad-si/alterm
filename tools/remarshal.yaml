@@ -1,0 +1,15 @@
+description: Convert between CBOR, JSON, MessagePack, TOML, and YAML; validate and pretty-print
+tags:
+  - convert
+  - json
+  - yaml
+  - toml
+  - validate
+
+links:
+  - https://github.com/dbohdan/remarshal
+
+alternatives:
+  - rq
+  - dasel
+  - yq

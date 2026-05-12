@@ -1,0 +1,13 @@
+description: A Rust implementation of jq with minor language changes for predictability
+tags:
+  - json
+  - query
+  - filter
+
+links:
+  - https://github.com/01mf02/jaq
+
+alternatives:
+  - jq
+  - gojq
+  - fx

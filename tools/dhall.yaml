@@ -1,0 +1,15 @@
+description: A statically-typed functional configuration language
+tags:
+  - config
+  - json
+  - yaml
+  - language
+
+links:
+  - https://dhall-lang.org/
+
+alternatives:
+  - cue
+  - jsonnet
+  - nickel
+  - pkl

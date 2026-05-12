@@ -1,0 +1,12 @@
+description: CLI tool similar to jq for creating and manipulating CSV, TSV, and JSON
+tags:
+  - json
+  - csv
+  - query
+
+links:
+  - http://kantord.github.io/emuto/
+
+alternatives:
+  - jq
+  - dasel

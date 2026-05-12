@@ -1,0 +1,13 @@
+description: Convert XML and HTML to and from flat, greppable lists of path=value statements
+tags:
+  - xml
+  - html
+  - convert
+  - grep
+
+links:
+  - https://github.com/clone/xml2
+
+alternatives:
+  - gron
+  - json2

@@ -1,0 +1,15 @@
+description: Convert between Avro, CBOR, CSV, JSON, MessagePack, Protobuf, TOML, YAML, and plain text
+tags:
+  - convert
+  - json
+  - csv
+  - yaml
+  - toml
+
+links:
+  - https://github.com/dflemstr/rq
+
+alternatives:
+  - remarshal
+  - dasel
+  - jq

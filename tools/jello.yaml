@@ -1,0 +1,12 @@
+description: Query JSON and JSON Lines with Python code
+tags:
+  - json
+  - query
+  - python
+
+links:
+  - https://github.com/kellyjonbrazil/jello
+
+alternatives:
+  - jq
+  - pyp

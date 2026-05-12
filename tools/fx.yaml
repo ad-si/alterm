@@ -1,0 +1,14 @@
+description: Run arbitrary JavaScript on JSON input
+tags:
+  - json
+  - query
+  - filter
+  - javascript
+
+links:
+  - https://github.com/antonmedv/fx
+
+alternatives:
+  - jq
+  - json
+  - jless

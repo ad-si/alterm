@@ -1,0 +1,12 @@
+description: jq wrapper for XML documents
+tags:
+  - xml
+  - query
+
+links:
+  - https://github.com/kislyuk/yq
+
+alternatives:
+  - xmllint
+  - xmlstarlet
+  - jq

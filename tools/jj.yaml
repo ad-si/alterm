@@ -1,0 +1,11 @@
+description: Query and modify values in JSON or JSON Lines with a key path
+tags:
+  - json
+  - query
+
+links:
+  - https://github.com/tidwall/jj
+
+alternatives:
+  - jq
+  - dasel

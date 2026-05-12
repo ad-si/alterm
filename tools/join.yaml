@@ -1,0 +1,10 @@
+description: Join two files sorted by a common field on the value of that field
+tags:
+  - posix
+  - text
+  - join
+
+alternatives:
+  - awk
+  - miller
+  - csvkit

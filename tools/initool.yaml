@@ -1,0 +1,13 @@
+description: Retrieve, set, check, and remove properties and sections in INI files
+tags:
+  - ini
+  - config
+  - edit
+
+links:
+  - https://github.com/dbohdan/initool
+
+alternatives:
+  - crudini
+  - cfget
+  - confget

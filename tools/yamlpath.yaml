@@ -1,0 +1,14 @@
+description: Query, modify, diff, merge, and validate YAML and JSON with YAML Paths
+tags:
+  - yaml
+  - json
+  - query
+  - diff
+
+links:
+  - https://github.com/wwkimball/yamlpath
+
+alternatives:
+  - yq
+  - jq
+  - dasel

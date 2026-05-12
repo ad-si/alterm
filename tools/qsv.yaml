@@ -1,0 +1,13 @@
+description: Index, slice, analyze, split, and join CSV files (fork of xsv with extras)
+tags:
+  - csv
+  - filter
+
+links:
+  - https://github.com/jqnatividad/qsv
+
+alternatives:
+  - xsv
+  - csvkit
+  - miller
+  - csvtk

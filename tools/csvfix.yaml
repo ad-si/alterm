@@ -1,9 +1,17 @@
-description: Process and edit CSV data
-links:
-  - http://neilb.bitbucket.org/csvfix)
-
+description: Compare, filter, normalize, split, and validate CSV files
 tags:
   - csv
   - edit
   - map
   - filter
+  - validate
+
+links:
+  - https://github.com/jheusser/csvfix
+
+alternatives:
+  - csvkit
+  - csvtk
+  - miller
+  - xsv
+  - qsv

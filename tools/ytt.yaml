@@ -1,0 +1,13 @@
+description: A templating tool for YAML built upon the Starlark configuration language
+tags:
+  - yaml
+  - config
+  - template
+
+links:
+  - https://get-ytt.io/
+
+alternatives:
+  - cue
+  - jsonnet
+  - dhall

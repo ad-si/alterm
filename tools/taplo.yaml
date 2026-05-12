@@ -1,0 +1,12 @@
+description: Query, format, and validate (lint) TOML
+tags:
+  - toml
+  - format
+  - validate
+
+links:
+  - https://github.com/tamasfe/taplo
+
+alternatives:
+  - dasel
+  - yq

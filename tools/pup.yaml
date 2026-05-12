@@ -1,0 +1,13 @@
+description: Query HTML pages with CSS selectors
+tags:
+  - html
+  - query
+  - css
+
+links:
+  - https://github.com/EricChiang/pup
+
+alternatives:
+  - htmlq
+  - hred
+  - tq

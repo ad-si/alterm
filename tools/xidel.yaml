@@ -1,0 +1,15 @@
+description: Query or modify XML and HTML pages with XPath, XQuery 3, and CSS selectors
+tags:
+  - xml
+  - html
+  - query
+  - xpath
+
+links:
+  - http://www.videlibri.de/xidel.html
+
+alternatives:
+  - xmllint
+  - xmlstarlet
+  - saxon
+  - pup

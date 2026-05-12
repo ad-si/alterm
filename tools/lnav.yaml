@@ -1,0 +1,12 @@
+description: Query and watch log files in batch and interactive mode; supports SQL queries
+tags:
+  - log
+  - viewer
+  - tui
+  - sql
+
+links:
+  - https://lnav.org
+
+alternatives:
+  - squawk

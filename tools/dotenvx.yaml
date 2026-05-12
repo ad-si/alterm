@@ -1,0 +1,7 @@
+description: A CLI tool to manipulate, parse, and inject .env files as environment variables
+tags:
+  - env
+  - config
+
+links:
+  - https://github.com/dotenvx/dotenvx

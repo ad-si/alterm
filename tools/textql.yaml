@@ -1,6 +1,6 @@
 description: Execute SQL against structured text like CSV or TSV
 links:
-  - https://github.com/dinedal/textql)
+  - https://github.com/dinedal/textql
 
 tags:
   - sql
@@ -10,3 +10,5 @@ tags:
 
 alternatives:
   - q
+  - trdsql
+  - sqawk

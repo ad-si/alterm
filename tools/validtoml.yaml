@@ -1,0 +1,10 @@
+description: Validate TOML
+tags:
+  - toml
+  - validate
+
+links:
+  - http://github.com/martinlindhe/validtoml
+
+alternatives:
+  - taplo

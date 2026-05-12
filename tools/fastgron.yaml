@@ -1,0 +1,12 @@
+description: Convert JSON to and from GRON, much faster than the original on large files
+tags:
+  - json
+  - convert
+  - grep
+
+links:
+  - https://github.com/adamritter/fastgron
+
+alternatives:
+  - gron
+  - jq

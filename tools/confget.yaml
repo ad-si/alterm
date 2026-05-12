@@ -1,0 +1,12 @@
+description: Retrieve INI properties and sections as shell commands or plain text
+tags:
+  - ini
+  - config
+
+links:
+  - https://devel.ringlet.net/textproc/confget/
+
+alternatives:
+  - cfget
+  - crudini
+  - initool

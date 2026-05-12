@@ -1,0 +1,13 @@
+description: Explore JSON interactively with filtering queries like jq
+tags:
+  - json
+  - tui
+  - query
+
+links:
+  - https://github.com/simeji/jid
+
+alternatives:
+  - jiq
+  - jless
+  - fx

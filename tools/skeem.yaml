@@ -1,0 +1,12 @@
+description: Infer SQL DDL statements from CSV, JSON, JSON Lines, ODS, XLSX, and other tabular data
+tags:
+  - sql
+  - schema
+  - csv
+  - json
+
+links:
+  - https://github.com/daq-tools/skeem
+
+alternatives:
+  - quicktype

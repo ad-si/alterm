@@ -1,0 +1,15 @@
+description: Search, sample, cut, join, transpose, and sort CSV/TSV files
+tags:
+  - csv
+  - tsv
+  - filter
+  - convert
+
+links:
+  - https://github.com/shenwei356/csvtk
+
+alternatives:
+  - csvkit
+  - miller
+  - xsv
+  - qsv

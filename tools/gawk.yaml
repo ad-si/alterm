@@ -1,0 +1,13 @@
+description: GNU implementation of the AWK programming language
+tags:
+  - text
+  - filter
+  - language
+
+links:
+  - https://www.gnu.org/software/gawk/manual/gawk.html
+
+alternatives:
+  - awk
+  - frawk
+  - goawk

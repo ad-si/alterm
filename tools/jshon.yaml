@@ -1,0 +1,11 @@
+description: Create and manipulate JSON using getopt-style command-line options
+tags:
+  - json
+  - query
+
+links:
+  - http://kmkeen.com/jshon/
+
+alternatives:
+  - jq
+  - jo

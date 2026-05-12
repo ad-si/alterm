@@ -1,0 +1,13 @@
+description: Query (including XSLT), validate, and reformat XML documents
+tags:
+  - xml
+  - validate
+  - format
+
+links:
+  - http://xmlsoft.org/xmllint.html
+
+alternatives:
+  - xmlstarlet
+  - xidel
+  - saxon

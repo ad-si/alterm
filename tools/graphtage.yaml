@@ -1,0 +1,14 @@
+description: Compare and merge tree-like structures semantically (JSON, JSON5, XML, HTML, YAML, CSV)
+tags:
+  - diff
+  - json
+  - xml
+  - yaml
+  - csv
+
+links:
+  - https://github.com/trailofbits/graphtage
+
+alternatives:
+  - diff
+  - icdiff

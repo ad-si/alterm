@@ -1,5 +1,14 @@
 description: Run SQL directly on CSV or TSV files
+tags:
+  - sql
+  - csv
+  - tsv
+  - query
+
 links:
   - https://github.com/harelba/q
+
 alternatives:
   - textql
+  - trdsql
+  - sqawk

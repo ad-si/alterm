@@ -1,0 +1,12 @@
+description: Add and remove entries in /etc/hosts; supports profiles and is idempotent
+tags:
+  - hosts
+  - config
+  - network
+
+links:
+  - https://github.com/guumaster/hostctl
+
+alternatives:
+  - hostess
+  - hosts

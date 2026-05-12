@@ -1,0 +1,12 @@
+description: Create text output from CSV input with printf-style format specifiers
+tags:
+  - csv
+  - format
+  - convert
+
+links:
+  - https://github.com/archiecobbs/csvprintf
+
+alternatives:
+  - csvkit
+  - awk

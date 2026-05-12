@@ -1,0 +1,15 @@
+description: Query and manipulate CSV, GRON, HCL, HTML, INI, JSON, TOML, XML, YAML, and more
+tags:
+  - query
+  - convert
+  - json
+  - yaml
+  - xml
+
+links:
+  - https://github.com/JFryy/qq
+
+alternatives:
+  - jq
+  - dasel
+  - yq

@@ -1,0 +1,14 @@
+description: A TUI to view and query tabular files (CSV, Parquet, JSON, JSONL, Arrow, FWF, SQLite, Excel)
+tags:
+  - tui
+  - viewer
+  - csv
+  - sqlite
+
+links:
+  - https://github.com/shshemi/tabiew
+
+alternatives:
+  - visidata
+  - sc-im
+  - tv

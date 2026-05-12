@@ -1,0 +1,14 @@
+description: Run SQL queries on CSV, TSV, and other delimited text files
+tags:
+  - sql
+  - csv
+  - awk
+  - query
+
+links:
+  - https://github.com/dbohdan/sqawk
+
+alternatives:
+  - q
+  - textql
+  - trdsql

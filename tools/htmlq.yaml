@@ -1,0 +1,13 @@
+description: Query HTML with CSS selectors; can remove elements in the output
+tags:
+  - html
+  - query
+  - css
+
+links:
+  - https://github.com/mgdm/htmlq
+
+alternatives:
+  - pup
+  - hred
+  - tq

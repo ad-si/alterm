@@ -1,0 +1,11 @@
+description: Query JSON with JMESPath
+tags:
+  - json
+  - query
+
+links:
+  - https://github.com/jmespath/jp
+
+alternatives:
+  - jq
+  - jaq

@@ -1,0 +1,13 @@
+description: Index, slice, analyze, split, and join CSV files
+tags:
+  - csv
+  - filter
+
+links:
+  - https://github.com/BurntSushi/xsv
+
+alternatives:
+  - qsv
+  - csvkit
+  - miller
+  - csvtk

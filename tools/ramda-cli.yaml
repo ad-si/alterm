@@ -1,0 +1,13 @@
+description: Manipulate JSON with the Ramda functional library, in LiveScript or JavaScript
+tags:
+  - json
+  - query
+  - javascript
+
+links:
+  - https://github.com/raine/ramda-cli
+
+alternatives:
+  - jq
+  - fx
+  - json

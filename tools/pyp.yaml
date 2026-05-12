@@ -1,0 +1,13 @@
+description: Transform input using Python code with automatic module imports
+tags:
+  - text
+  - filter
+  - python
+
+links:
+  - https://github.com/hauntsaninja/pyp
+
+alternatives:
+  - awk
+  - jello
+  - pawk

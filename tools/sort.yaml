@@ -1,0 +1,9 @@
+description: Sort lines by key fields
+tags:
+  - posix
+  - text
+  - sort
+
+alternatives:
+  - awk
+  - miller

@@ -1,0 +1,9 @@
+description: Find or remove repeated lines
+tags:
+  - posix
+  - text
+  - filter
+
+alternatives:
+  - awk
+  - sort

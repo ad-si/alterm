@@ -1,0 +1,15 @@
+description: Explore and search JSON, JSON Lines, and YAML interactively
+tags:
+  - json
+  - yaml
+  - viewer
+  - tui
+
+links:
+  - https://github.com/PaulJuliusMartinez/jless
+
+alternatives:
+  - jid
+  - jiq
+  - fx
+  - otree

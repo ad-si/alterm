@@ -1,0 +1,14 @@
+description: View Markdown with tree-based structural navigation; extract elements with a jq-like query language
+tags:
+  - markdown
+  - tui
+  - viewer
+  - query
+
+links:
+  - https://github.com/Epistates/treemd
+
+alternatives:
+  - mdq
+  - mdless
+  - mdr

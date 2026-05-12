@@ -1,0 +1,12 @@
+description: Create, manipulate, search, and validate JSON with path expressions
+tags:
+  - json
+  - query
+  - validate
+
+links:
+  - https://github.com/ldn-softdev/jtc
+
+alternatives:
+  - jq
+  - jaq

@@ -1,0 +1,11 @@
+description: Query YAML; can output null-terminated strings for shell scripts
+tags:
+  - yaml
+  - query
+
+links:
+  - https://github.com/0k/shyaml
+
+alternatives:
+  - yq
+  - dasel

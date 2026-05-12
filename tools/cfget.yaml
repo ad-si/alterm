@@ -1,0 +1,12 @@
+description: Retrieve INI properties as shell variables or plain text; supports plug-ins
+tags:
+  - ini
+  - config
+
+links:
+  - https://packages.debian.org/source/buster/cfget
+
+alternatives:
+  - confget
+  - crudini
+  - initool

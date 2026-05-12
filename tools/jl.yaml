@@ -1,0 +1,12 @@
+description: Query and manipulate JSON using a tiny functional language
+tags:
+  - json
+  - query
+
+links:
+  - https://github.com/chrisdone/jl
+
+alternatives:
+  - jq
+  - jaq
+  - jql

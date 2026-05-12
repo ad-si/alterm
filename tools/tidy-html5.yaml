@@ -1,0 +1,12 @@
+description: Validate, fix, and reformat HTML, XHTML, and XML documents
+tags:
+  - html
+  - xml
+  - validate
+  - format
+
+links:
+  - http://www.html-tidy.org/
+
+alternatives:
+  - xmllint

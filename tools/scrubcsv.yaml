@@ -1,0 +1,12 @@
+description: Remove bad lines from a CSV file and normalize the rest
+tags:
+  - csv
+  - clean
+  - filter
+
+links:
+  - https://github.com/faradayio/scrubcsv
+
+alternatives:
+  - csvkit
+  - csvfix

@@ -1,0 +1,15 @@
+description: A constraint language for JSON configuration data; can generate and validate JSON
+tags:
+  - config
+  - json
+  - language
+  - validate
+
+links:
+  - https://github.com/cue-lang/cue
+
+alternatives:
+  - dhall
+  - jsonnet
+  - nickel
+  - pkl

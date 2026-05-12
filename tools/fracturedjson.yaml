@@ -1,0 +1,10 @@
+description: Format JSON in ways that are easy to read but fairly compact
+tags:
+  - json
+  - format
+
+links:
+  - https://github.com/j-brooke/FracturedJson
+
+alternatives:
+  - jq

@@ -1,0 +1,16 @@
+description: A gradually-typed functional configuration language with contracts
+tags:
+  - config
+  - json
+  - yaml
+  - toml
+  - language
+
+links:
+  - https://nickel-lang.org/
+
+alternatives:
+  - cue
+  - dhall
+  - jsonnet
+  - pkl

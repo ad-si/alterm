@@ -1,0 +1,14 @@
+description: Execute SQL against CSV, LTSV, JSON, YAML, and TBLN
+tags:
+  - sql
+  - csv
+  - json
+  - query
+
+links:
+  - https://github.com/noborus/trdsql
+
+alternatives:
+  - q
+  - textql
+  - sqawk

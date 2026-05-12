@@ -1,0 +1,12 @@
+description: Preview, filter, slice, aggregate, sort, and join CSV files
+tags:
+  - csv
+  - filter
+
+links:
+  - https://github.com/medialab/xan
+
+alternatives:
+  - xsv
+  - qsv
+  - csvkit

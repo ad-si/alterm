@@ -1,0 +1,12 @@
+description: Run arbitrary JavaScript on JSON input
+tags:
+  - json
+  - query
+  - javascript
+
+links:
+  - https://github.com/trentm/json
+
+alternatives:
+  - jq
+  - fx

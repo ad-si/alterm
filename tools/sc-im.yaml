@@ -1,0 +1,13 @@
+description: A Vim-like spreadsheet calculator for CSV and TSV files
+tags:
+  - tui
+  - csv
+  - spreadsheet
+  - vim
+
+links:
+  - https://github.com/andmarti1424/sc-im
+
+alternatives:
+  - visidata
+  - tabiew

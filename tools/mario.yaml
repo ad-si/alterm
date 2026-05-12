@@ -1,0 +1,15 @@
+description: Manipulate and convert between CSV, JSON, YAML, TOML, and XML with Python code
+tags:
+  - convert
+  - csv
+  - json
+  - yaml
+  - python
+
+links:
+  - https://github.com/python-mario/mario
+
+alternatives:
+  - jq
+  - dasel
+  - remarshal

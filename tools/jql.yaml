@@ -1,0 +1,12 @@
+description: Create and manipulate JSON with a Lisp-syntax DSL
+tags:
+  - json
+  - query
+  - lisp
+
+links:
+  - https://github.com/cube2222/jql
+
+alternatives:
+  - jq
+  - jaq

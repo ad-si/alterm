@@ -1,0 +1,12 @@
+description: A set of CLI tools to manipulate YAML files (merge, delete) with comment preservation
+tags:
+  - yaml
+  - edit
+  - merge
+
+links:
+  - https://github.com/thecodingmachine/yaml-tools
+
+alternatives:
+  - yq
+  - yamlpath

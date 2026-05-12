@@ -1,0 +1,11 @@
+description: View delimited files in the terminal
+tags:
+  - csv
+  - viewer
+
+links:
+  - https://github.com/codechenx/tv
+
+alternatives:
+  - visidata
+  - tabiew

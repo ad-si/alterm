@@ -1,0 +1,12 @@
+description: Transform text from the command-line using Haskell expressions
+tags:
+  - text
+  - filter
+  - haskell
+
+links:
+  - https://github.com/gelisam/hawk
+
+alternatives:
+  - awk
+  - pyp

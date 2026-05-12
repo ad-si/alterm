@@ -1,0 +1,13 @@
+description: Retrieve, set, and remove properties and sections in INI files
+tags:
+  - ini
+  - config
+  - edit
+
+links:
+  - https://github.com/pixelb/crudini/
+
+alternatives:
+  - initool
+  - cfget
+  - confget

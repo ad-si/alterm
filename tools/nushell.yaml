@@ -1,0 +1,15 @@
+description: A command shell that natively loads CSV, INI, JSON, TOML, TSV, XML, YAML, and more
+tags:
+  - shell
+  - convert
+  - csv
+  - json
+  - yaml
+
+links:
+  - https://github.com/nushell/nushell
+
+alternatives:
+  - dasel
+  - jq
+  - mario

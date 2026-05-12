@@ -1,0 +1,13 @@
+description: A POSIX-standard programming language and tool for text processing
+tags:
+  - posix
+  - text
+  - filter
+  - language
+
+alternatives:
+  - gawk
+  - frawk
+  - goawk
+  - sed
+  - perl

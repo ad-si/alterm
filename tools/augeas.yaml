@@ -1,0 +1,11 @@
+description: Query and modify a number of configuration file formats
+tags:
+  - config
+  - edit
+  - query
+
+links:
+  - http://augeas.net
+
+alternatives:
+  - elektra

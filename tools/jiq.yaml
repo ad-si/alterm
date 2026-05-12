@@ -1,0 +1,13 @@
+description: Explore JSON interactively with jq
+tags:
+  - json
+  - tui
+  - query
+
+links:
+  - https://github.com/fiatjaf/jiq
+
+alternatives:
+  - jid
+  - jless
+  - jq

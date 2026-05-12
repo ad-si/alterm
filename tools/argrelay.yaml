@@ -1,0 +1,11 @@
+description: Implement tab completion for commands in Bash via search of indexed data
+tags:
+  - shell
+  - completion
+  - tui
+
+links:
+  - https://github.com/argrelay/argrelay
+
+alternatives:
+  - fzf

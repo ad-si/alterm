@@ -1,0 +1,13 @@
+description: Query HTML with CSS selectors
+tags:
+  - html
+  - query
+  - css
+
+links:
+  - https://github.com/plainas/tq
+
+alternatives:
+  - pup
+  - htmlq
+  - hred

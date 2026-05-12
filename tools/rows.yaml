@@ -1,0 +1,13 @@
+description: Convert between CSV, XLS, XLSX, ODS, and other tabular file formats
+tags:
+  - csv
+  - convert
+  - xlsx
+  - python
+
+links:
+  - https://github.com/turicas/rows
+
+alternatives:
+  - csvkit
+  - madato

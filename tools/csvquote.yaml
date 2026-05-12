@@ -1,0 +1,12 @@
+description: Transform CSV to and from a format processable with awk-like tools
+tags:
+  - csv
+  - awk
+  - convert
+
+links:
+  - https://github.com/dbro/csvquote
+
+alternatives:
+  - csvkit
+  - miller

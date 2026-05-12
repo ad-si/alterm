@@ -1,0 +1,12 @@
+description: Convert CSV to HTML tables
+tags:
+  - csv
+  - html
+  - convert
+
+links:
+  - https://github.com/dbohdan/csv2html
+
+alternatives:
+  - csv2md
+  - csvtotable

@@ -1,0 +1,16 @@
+description: Query and update CSV, JSON, TOML, YAML, and XML data structures
+tags:
+  - csv
+  - json
+  - toml
+  - yaml
+  - xml
+  - query
+
+links:
+  - https://github.com/TomWright/dasel
+
+alternatives:
+  - jq
+  - yq
+  - gojq

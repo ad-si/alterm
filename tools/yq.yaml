@@ -1,0 +1,14 @@
+description: Query, modify, and merge YAML; convert to and from JSON
+tags:
+  - yaml
+  - json
+  - query
+
+links:
+  - https://github.com/mikefarah/yq
+
+alternatives:
+  - jq
+  - dasel
+  - shyaml
+  - gojq

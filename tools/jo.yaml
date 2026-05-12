@@ -1,0 +1,11 @@
+description: Create JSON objects from the shell
+tags:
+  - json
+  - generate
+
+links:
+  - https://github.com/jpmens/jo
+
+alternatives:
+  - jq
+  - jshon

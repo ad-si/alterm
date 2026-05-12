@@ -1,0 +1,13 @@
+description: A set of W3C utilities for manipulating HTML and XML files
+tags:
+  - html
+  - xml
+  - filter
+
+links:
+  - https://www.w3.org/Tools/HTML-XML-utils/README
+
+alternatives:
+  - tidy-html5
+  - xmllint
+  - pup

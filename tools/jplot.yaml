@@ -1,0 +1,11 @@
+description: Plot real-time JSON data in the terminal (works with graphic-rendering terminals)
+tags:
+  - json
+  - plot
+  - viewer
+
+links:
+  - https://github.com/rs/jplot
+
+alternatives:
+  - jq

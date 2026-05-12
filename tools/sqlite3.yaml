@@ -1,0 +1,10 @@
+description: Command-line utility to enter and execute SQL statements against an SQLite database
+tags:
+  - sql
+  - database
+
+links:
+  - https://www.sqlite.org/cli.html
+
+alternatives:
+  - recutils
