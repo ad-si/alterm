@@ -25,7 +25,8 @@
     "build": "tsc",
     "start": "node dist/cli.js",
     "dev": "tsc --watch",
-    "clean": "rm -rf dist"
+    "clean": "rm -rf dist",
+    "test": "tsc && node dist/test.js"
   },
   "repository": {
     "type": "git",
