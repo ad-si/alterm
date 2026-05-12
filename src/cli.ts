@@ -4,11 +4,28 @@ import { readFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import { fileURLToPath } from "node:url"
 import { Command } from "commander"
+import { parse as parseYaml } from "yaml"
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
+const toolsDir = resolve(__dirname, "../tools")
 const packageJson = JSON.parse(
   readFileSync(resolve(__dirname, "../package.json"), "utf8"),
 ) as { version: string }
+
+type Tool = {
+  description?: string
+  alternatives?: string[]
+}
+
+function loadTool(name: string): Tool | undefined {
+  try {
+    const raw = readFileSync(resolve(toolsDir, `${name}.yaml`), "utf8")
+    return parseYaml(raw) as Tool
+  } catch (err) {
+    if ((err as NodeJS.ErrnoException).code === "ENOENT") return undefined
+    throw err
+  }
+}
 
 const program = new Command()
 
@@ -21,7 +38,18 @@ program
     if (!programName) {
       program.help()
     }
-    // TODO: list alternatives for `programName`
+    const tool = loadTool(programName!)
+    if (!tool) {
+      console.error(`No entry for "${programName}".`)
+      process.exit(1)
+    }
+    const alts = tool.alternatives ?? []
+    if (alts.length === 0) {
+      console.log(`No alternatives listed for "${programName}".`)
+      return
+    }
+    console.log(`Alternatives to ${programName}:`)
+    for (const alt of alts) console.log(`  - ${alt}`)
   })
 
 program
