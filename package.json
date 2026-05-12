@@ -1,6 +1,6 @@
 {
   "name": "alterm",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Find alternatives to programs, apps, websites and other software right in your terminal!",
   "type": "module",
   "main": "./dist/index.js",
