@@ -1,0 +1,12 @@
+description: Edit the contents of a directory in your text editor
+tags:
+  - file-manager
+  - editor
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - ranger
+  - mv
+  - vipe

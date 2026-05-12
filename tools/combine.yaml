@@ -1,0 +1,13 @@
+description: Merge lines from two files using boolean operations
+tags:
+  - text
+  - filter
+  - set
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - comm
+  - diff
+  - grep

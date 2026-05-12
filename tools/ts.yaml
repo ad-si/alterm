@@ -1,0 +1,12 @@
+description: Prepend timestamps to lines of standard input
+tags:
+  - shell
+  - logging
+  - timestamp
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - awk
+  - gawk

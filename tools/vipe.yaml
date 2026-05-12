@@ -1,0 +1,11 @@
+description: Insert a text editor into a shell pipeline
+tags:
+  - shell
+  - pipe
+  - editor
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - vidir

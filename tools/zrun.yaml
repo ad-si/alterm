@@ -1,0 +1,11 @@
+description: Automatically decompress compressed file arguments before passing them to a command
+tags:
+  - shell
+  - compression
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - zcat
+  - zgrep

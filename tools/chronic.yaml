@@ -1,0 +1,12 @@
+description: Run a command quietly unless it fails
+tags:
+  - shell
+  - scripting
+  - output
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - errno
+  - ts

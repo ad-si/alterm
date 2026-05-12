@@ -1,0 +1,11 @@
+description: Run a program only if the standard input is not empty
+tags:
+  - shell
+  - scripting
+  - filter
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - xargs

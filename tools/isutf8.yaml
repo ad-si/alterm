@@ -1,0 +1,13 @@
+description: Check whether files or standard input are valid UTF-8
+tags:
+  - text
+  - encoding
+  - validation
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - file
+  - iconv
+  - uchardet

@@ -1,0 +1,11 @@
+description: Soak up standard input and write it to a file, allowing in-place edits
+tags:
+  - shell
+  - pipe
+  - file
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - tee

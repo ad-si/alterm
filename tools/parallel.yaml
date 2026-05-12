@@ -1,0 +1,13 @@
+description: Run multiple jobs at once
+tags:
+  - shell
+  - concurrency
+  - parallel
+
+links:
+  - https://joeyh.name/code/moreutils/
+  - https://www.gnu.org/software/parallel/
+
+alternatives:
+  - xargs
+  - rush

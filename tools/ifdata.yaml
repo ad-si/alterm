@@ -1,0 +1,11 @@
+description: Get network interface info without parsing ifconfig output
+tags:
+  - network
+  - system
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - ifconfig
+  - ip

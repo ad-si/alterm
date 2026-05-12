@@ -1,0 +1,10 @@
+description: Pipe two commands while returning the exit status of the first
+tags:
+  - shell
+  - pipe
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - bash

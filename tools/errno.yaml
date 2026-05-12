@@ -1,0 +1,12 @@
+description: Look up errno names and descriptions
+tags:
+  - lookup
+  - system
+  - reference
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - man
+  - perror

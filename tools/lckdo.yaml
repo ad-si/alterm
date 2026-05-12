@@ -1,0 +1,11 @@
+description: Execute a program while holding a lock
+tags:
+  - shell
+  - concurrency
+  - lock
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - flock

@@ -1,0 +1,10 @@
+description: Tee standard input to multiple pipes
+tags:
+  - shell
+  - pipe
+
+links:
+  - https://joeyh.name/code/moreutils/
+
+alternatives:
+  - tee
