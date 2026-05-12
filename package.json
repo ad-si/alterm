@@ -24,7 +24,6 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/cli.js",
-    "serve": "node dist/server.js",
     "dev": "tsc --watch",
     "clean": "rm -rf dist"
   },
@@ -43,11 +42,9 @@
   "homepage": "https://github.com/adius/alterm",
   "dependencies": {
     "commander": "^12.1.0",
-    "express": "^4.21.1",
     "yaml": "^2.9.0"
   },
   "devDependencies": {
-    "@types/express": "^5.0.0",
     "@types/node": "^22.9.0",
     "typescript": "^5.6.3"
   }
