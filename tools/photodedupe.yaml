@@ -1,0 +1,12 @@
+description: Identify duplicate photos even when resized, recompressed or watermarked
+tags:
+  - duplicates
+  - images
+
+links:
+  - https://github.com/InexplicableMagic/photodedupe
+
+alternatives:
+  - imgdupes
+  - czkawka
+  - fdupes

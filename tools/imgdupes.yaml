@@ -1,0 +1,12 @@
+description: Find and delete near-duplicate images using perceptual hashing
+tags:
+  - duplicates
+  - images
+
+links:
+  - https://github.com/knjcode/imgdupes
+
+alternatives:
+  - photodedupe
+  - czkawka
+  - fdupes

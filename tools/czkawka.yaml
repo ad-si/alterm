@@ -1,0 +1,13 @@
+description: Find duplicate files, similar images and videos, empty folders and other junk
+tags:
+  - duplicates
+  - images
+
+links:
+  - https://github.com/qarmin/czkawka
+
+alternatives:
+  - imgdupes
+  - photodedupe
+  - fdupes
+  - rmlint
